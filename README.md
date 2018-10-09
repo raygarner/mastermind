@@ -1,0 +1,1 @@
+the classic boardgame of mastermind implemented as a vb.net console program
